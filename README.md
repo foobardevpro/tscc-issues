@@ -1,0 +1,1 @@
+Instructions inside ./src/root.ts
