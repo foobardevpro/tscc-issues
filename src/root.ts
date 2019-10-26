@@ -23,4 +23,4 @@ I'm not sure how you should deal with the last issue but it deserves mentioning,
 
 */
 
-// console.log(React)
+console.log(React)
